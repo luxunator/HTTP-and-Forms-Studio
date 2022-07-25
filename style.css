@@ -1,0 +1,20 @@
+body {
+    background-color: limegreen;
+    text-align: center;
+}
+
+#searchForm {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#searchText {
+    margin-bottom: 25px;
+    display:inline-block;
+}
+
+#searchBtn {
+    margin-top: 25px;
+}
